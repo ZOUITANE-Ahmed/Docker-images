@@ -57,5 +57,3 @@ Docker est une plateforme open-source qui permet de créer, exécuter et déploy
 - Simplifier le déploiement et le passage d’une application d’un serveur à un autre.
 - Gérer des services multiples dans un environnement de développement unifié.
 - Faciliter le déploiement d’applications cloud et distribuées.
-
-Si tu as besoin d’explications sur un point spécifique, n’hésite pas à demander ! 😊
